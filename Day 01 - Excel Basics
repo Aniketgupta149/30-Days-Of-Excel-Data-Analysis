@@ -1,0 +1,199 @@
+# 🚀 Day 01 – Excel Basics (Your Actual Learning Session)
+
+## 🎯 Goal for Today
+
+By the end of this session, you should be able to:
+
+* Understand Excel layout
+* Enter & format data
+* Sort & filter data
+* Convert data into tables
+
+---
+
+## 📌 Introduction to Excel
+
+Microsoft Excel is a spreadsheet application used to:
+
+* Store data
+* Organize information
+* Perform calculations
+* Analyze data
+
+👉 It is widely used in data analysis, business reporting, and dashboards.
+
+---
+
+## 🧠 Excel Interface (Core Understanding)
+
+### 🔹 Workbook
+
+An Excel file that contains multiple worksheets.
+
+### 🔹 Worksheet
+
+A single sheet inside a workbook where data is stored.
+
+### 🔹 Rows
+
+* Horizontal lines
+* Identified by numbers (1, 2, 3…)
+
+### 🔹 Columns
+
+* Vertical lines
+* Identified by letters (A, B, C…)
+
+### 🔹 Cell
+
+Intersection of a row and a column
+Example: **A1**
+
+### 🔹 Formula Bar
+
+Used to enter or edit data and formulas.
+
+### 🔹 Ribbon
+
+The top menu contains tools like:
+
+* Home
+* Insert
+* Data
+* View
+
+---
+
+## ✍️ Data Entry & Formatting
+
+### ✅ Data Entry
+
+You can enter:
+
+* Text (Names)
+* Numbers (Marks, Age)
+* Dates
+
+### ✅ Formatting Options
+
+* Bold / Italic
+* Font size & colour
+* Cell alignment
+* Column width (Auto-fit)
+
+### ✅ Number Formatting
+
+* General
+* Number
+* Currency
+* Date
+
+---
+
+## 🔽 Sorting & Filtering
+
+### 🔹 Sorting
+
+Used to arrange data in order.
+
+**Steps:**
+
+1. Select your dataset
+2. Go to the **Data Tab**
+3. Click **Sort**
+4. Choose:
+
+   * Ascending (A → Z / Small → Large)
+   * Descending (Z → A / Large → Small)
+
+**Example:**
+Sort Marks from highest to lowest.
+
+---
+
+### 🔹 Filtering
+
+Used to display specific data based on conditions.
+
+**Steps:**
+
+1. Select dataset
+2. Click **Filter** (Data Tab)
+3. Use a dropdown to apply conditions
+
+**Example:**
+Show only students with Marks > 80
+
+---
+
+## 📊 Tables (Most Important Concept)
+
+### 🔹 What is a Table?
+
+A structured format for organising data.
+
+### 🔹 How to Create:
+
+1. Select your dataset
+2. Press **Ctrl + T**
+3. Click OK
+
+### 🔹 Advantages:
+
+* Automatic filtering
+* Better formatting
+* Structured references
+* Auto-expansion of data
+
+👉 Tables are used in dashboards and advanced analysis.
+
+---
+
+## 🧪 Practice Exercise
+
+### Dataset:
+
+| Name | Age | Marks |
+| ---- | --- | ----- |
+| A    | 20  | 80    |
+| B    | 22  | 75    |
+| C    | 19  | 90    |
+| D    | 21  | 85    |
+
+---
+
+### Tasks:
+
+* Convert dataset into a **Table (Ctrl + T)**
+* Sort Marks in descending order
+* Apply filter: Marks > 80
+* Format:
+
+  * Bold header
+  * Adjust column width
+
+---
+
+## 📷 Screenshots (Add Here)
+
+* Excel Interface
+* Table Creation
+* Sorting Example
+* Filtering Example
+
+---
+
+## 💡 Key Takeaways
+
+* Excel is used for data organisation and analysis
+* Tables are essential for structured data
+* Sorting and filtering are basic but powerful tools
+* Clean data is the foundation of good analysis
+
+---
+
+## 🚀 What’s Next?
+
+➡️ Day 02 – Excel Formulas (Core of Data Analysis)
+
+---
