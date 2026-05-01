@@ -104,4 +104,5 @@ Create a dataset like:
 
 ## 🚀 Next
 
-➡️ Day 02 - Excel Formulas
+[➡️ Day 02 - Excel Formulas](/Day%2002%20–%20Formulas%20(most%20important%20part)
+
